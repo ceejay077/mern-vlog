@@ -14,6 +14,7 @@ main {
 header {
   display: flex;
   justify-content: space-between;
+  margin-top: 20px;
   margin-bottom: 50px;
   align-items: center;
   margin-top: 20px;
@@ -43,7 +44,7 @@ div.post {
 
 div.post div.texts h2 {
   margin: 0;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
 
 div.post p.info {

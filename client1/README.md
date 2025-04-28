@@ -70,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 tutorial link : https://www.youtube.com/watch?v=xKs2IZZya7c&ab_channel=CodingWithDawid
+
+mongo DB
+username : naveenchamara
+password: Cn1WYRK2D12oWyX4

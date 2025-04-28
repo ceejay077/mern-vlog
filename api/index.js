@@ -8,7 +8,7 @@ const mongoose = require("mongoose");
 app.use(cors());
 app.use(express.json());
 
-await mongoose.connect(
+mongoose.connect(
   "mongodb+srv://naveenchamara:Cn1WYRK2D12oWyX4@blog-mern-cluster.kykxhhj.mongodb.net/?retryWrites=true&w=majority&appName=blog-mern-cluster"
 );
 
